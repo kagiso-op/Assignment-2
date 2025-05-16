@@ -1,7 +1,7 @@
 ﻿# Assignment-2
-ST10477287 GITHUB Link: 
+ST10477287 GITHUB Link: https://github.com/kagiso-op/Assignment-2.git
 
-Youtube Link: 
+Youtube Link: https://youtube.com/shorts/ZMXFO6JHKDs?si=6vTuXfYNMps2kmeh
 
 Knowledge tester 
 
